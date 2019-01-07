@@ -9,3 +9,7 @@ h1{
 p{
     color: purple;
 }
+
+.images{
+    border: 1px solid purple;
+}
